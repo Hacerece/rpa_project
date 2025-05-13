@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zTidxS39NESA7gCn4-CmxA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="ac6c9125-304f-4655-bdc9-0409390ffbf6" CvElementArea="576, 37, 56, 25" CvTextArea="607, 43, 19, 12" CvTextArgument="Ara" CvType="Button" DesignTimeRectangle="575, 37, 58, 25" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;wnd cls='TBitBtn' title='Ara' /&gt;" FuzzySelectorArgument="&lt;wnd cls='TBitBtn' title='Ara' check:text='Ara' /&gt;" Guid="6ae6baef-0a3f-464a-a095-d9e606842aa7" ScopeSelectorArgument="&lt;wnd app='ithalsql.exe' cls='TFormGonderen' title='Yurtiçi Müşterileri' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="230c4314a63bc4fab7a1e46cfd09af59.png" xmlns="">0O67sSIyCfE2hpTVMBwRbKA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

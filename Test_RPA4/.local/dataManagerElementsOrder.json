@@ -1,0 +1,111 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Documentation/Read_PDF.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "workbook&Sequence_1",
+        "urunBilgisi&Sequence_2",
+        "PDF_Text&Sequence_2",
+        "PDF_Lines&Sequence_2",
+        "gtipMenşeBilgisi&Sequence_2",
+        "Sirket&Sequence_2",
+        "pattern&Sequence_2",
+        "match&Sequence_2",
+        "grossWeight&Sequence_2",
+        "netWeight&Sequence_2",
+        "eurText&Sequence_2",
+        "exceldata&Sequence_2",
+        "dtGTIP&Sequence_2",
+        "matchedRow&Sequence_2",
+        "hsCode&Sequence_2",
+        "matchedGtip&Sequence_2",
+        "Total&Sequence_2",
+        "Weights&Sequence_2",
+        "WeightsValue&Sequence_2",
+        "WeightsMach&Sequence_2",
+        "termsOfDelivery&Sequence_2",
+        "satirlar&Sequence_2",
+        "satir1box&Sequence_2",
+        "rowIndex&Sequence_2",
+        "DtTableExcel&Sequence_2",
+        "excelUrunBilgi&Sequence_2",
+        "excelAdet&Sequence_2",
+        "excelMiktarCinsi&Sequence_2",
+        "excelKiymet&Sequence_2",
+        "ilkKelime&Sequence_3",
+        "adet&Sequence_3",
+        "kutuTipi&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Documentation/Evrim_Login.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Documentation/Activities_RPA.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Documentation/TEST.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Pdf_Text&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Documentation/PDF_Text.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TransactionItem&StateMachine_1",
+        "SystemException&StateMachine_1",
+        "BusinessException&StateMachine_1",
+        "TransactionNumber&StateMachine_1",
+        "Config&StateMachine_1",
+        "RetryNumber&StateMachine_1",
+        "TransactionField2&StateMachine_1",
+        "TransactionField1&StateMachine_1",
+        "TransactionID&StateMachine_1",
+        "dt_TransactionData&StateMachine_1",
+        "ConsecutiveSystemExceptions&StateMachine_1",
+        "ShouldStop&Sequence_25"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_OrchestratorQueueName",
+        "in_OrchestratorQueueFolder"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

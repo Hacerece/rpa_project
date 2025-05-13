@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Sayfa 2",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "ziKIdkoVp0Cr7nGe7AOHWA",
+  "Reference": "eE2r3Dx0A0mRc8l5gXdRRg/ziKIdkoVp0Cr7nGe7AOHWA",
+  "ParentRef": "eE2r3Dx0A0mRc8l5gXdRRg/8V01Rddr7kOtf8wmAsBYkQ",
+  "Created": "2025-05-05T20:20:57.8856652Z",
+  "Updated": "2025-05-05T20:20:57.8856652Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Evrim Bilgisayar Haber Servisi - (V11.23.2.0)",
+  "Type": "App",
+  "Id": "Kqyz0CnET0-TxOf77e4fOg",
+  "Reference": "eE2r3Dx0A0mRc8l5gXdRRg/Kqyz0CnET0-TxOf77e4fOg",
+  "Created": "2025-05-04T18:30:35.1657298Z",
+  "Updated": "2025-05-04T18:30:35.1657298Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

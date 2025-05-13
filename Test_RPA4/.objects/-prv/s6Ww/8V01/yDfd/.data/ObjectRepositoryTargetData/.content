@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="WLa-hpg75UWNnZcHbQC-8A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="33883af2-3d1d-4113-93a5-6be775749920" CvTextArea="12, 90, 7, 12" CvTextArgument="&gt;" CvType="Text" DesignTimeRectangle="12, 90, 7, 12" DesignTimeScaleFactor="1" ElementType="Text" Guid="bc98332d-42be-4947-8d45-5ca85c213916" ScopeSelectorArgument="&lt;wnd app='ithalsql.exe' cls='TFormGonderen' title='Yurtiçi Müşterileri' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset X="2" Y="-2" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="69e567bdc5f271b56faac9d2187412b8.png" xmlns="">03t8uYGwqwEaJTpyJf3B-vg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Dosya Aç - Güvenlik Uyarısı",
+  "Type": "Screen",
+  "Id": "9PdOT2uPskqFTrzMrMhE0g",
+  "Reference": "eE2r3Dx0A0mRc8l5gXdRRg/9PdOT2uPskqFTrzMrMhE0g",
+  "ParentRef": "eE2r3Dx0A0mRc8l5gXdRRg/VIEckEra3kS1FE49AiK4RA",
+  "Created": "2025-04-27T20:28:27.4355564Z",
+  "Updated": "2025-04-27T20:28:27.4355564Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

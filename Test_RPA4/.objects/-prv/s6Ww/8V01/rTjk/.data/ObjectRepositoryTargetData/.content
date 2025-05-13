@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_-wfME27WEuq0eBfou5CUA" Reference="eE2r3Dx0A0mRc8l5gXdRRg/rTjkkX0000OBvXrPGsahHA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="00176360-af9a-4092-9b90-fc46a557d6ad" CvTextArea="136, 34, 64, 15" CvTextArgument="2. Veri Girişi" CvType="Text" DesignTimeRectangle="114, 31, 119, 19" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;ctrl automationid='MenuBar' name='Uygulama' role='menu bar' /&gt;&lt;ctrl idx='2' role='menu item' /&gt;" FuzzySelectorArgument="&lt;ctrl automationid='MenuBar' name='Uygulama' role='menu bar' /&gt;&lt;ctrl automationid='' role='menu item' /&gt;" Guid="4eb93552-4912-4e31-bc9e-7d47fb7c41b6" ScopeSelectorArgument="&lt;wnd app='ithalsql.exe' cls='TFormMain' title='İthalat Sistemi (v.11.23.2.0) (21.04.2025 16:32:34) Sirket No :2*' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset Y="-1" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="a3ca8d174968b080db55e9a98cb3dfef.png" xmlns="">0h2xev6vB00q_k3HFCGq7Ig</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

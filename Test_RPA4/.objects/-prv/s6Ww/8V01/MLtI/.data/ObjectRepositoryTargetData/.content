@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ZjFe6zsqu0umZaFoQNX9ZA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="f9eff3ee-fb2b-4ff4-ae89-2ac9a26ef831" CvTextArea="32, 7, 208, 12" CvTextArgument="A. İthalat Beyannamesi Ctrl+B" CvType="Text" DesignTimeRectangle="3, 3, 258, 22" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;ctrl automationid='117' /&gt;" FuzzySelectorArgument="&lt;ctrl automationid='117' role='menu item' /&gt;" Guid="15adca2b-b4f7-46b3-bd6f-24e3694c2845" ScopeSelectorArgument="&lt;wnd app='ithalsql.exe' cls='#32768' idx='*' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f04d82b472c42c3542f506481aa72546.png" xmlns="">0CZ5_cwX_kUWaOp1GpcNCIg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="i7AIGrN3FUmQ6N-leMfyxQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="6c5e9967-70ce-4812-b468-665a1df7707a" CvElementArea="545, 853, 98, 31" CvTextArea="601, 862, 23, 12" CvTextArgument="Ekle" CvType="Button" DesignTimeRectangle="547, 853, 95, 30" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;wnd aaname='Ekle' cls='TBitBtn' title='&amp;amp;Ekle' /&gt;" FuzzySelectorArgument="&lt;wnd aaname='Ekle' cls='TBitBtn' title='&amp;amp;Ekle' check:text='&amp;amp;Ekle' /&gt;" Guid="95f66b0c-c342-4395-b9e9-2faeffb47d40" ScopeSelectorArgument="&lt;wnd app='ithalsql.exe' cls='TFormMain' title='İthalat Sistemi (v.11.23.2.0) (21.04.2025 16:32:34) Sirket No :2*' /&gt;&lt;wnd cls='TFormGGB' title='İthalat Beyannamesi' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="2d975b0533ce1644fceb309a03bb60b0.png" xmlns="">0k-oN3rppHEGGhRUwrXY9Kw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

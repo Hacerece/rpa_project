@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4VuIkRQE5U6yEobEWcBvsg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="85ee591d-31b1-451d-aee8-512d99250e05" CvElementArea="784, 271, 68, 23" CvTextArea="798, 276, 38, 14" CvTextArgument="Sayfa 2" CvType="Button" DesignTimeRectangle="784, 271, 68, 23" DesignTimeScaleFactor="1" ElementType="Button" Guid="51f440a7-c6cb-46e6-abad-8fb653182e72" ScopeSelectorArgument="&lt;wnd app='ithalsql.exe' cls='TFormMain' title='İthalat Sistemi (v.11.23.2.0) (21.04.2025 16:32:34) Sirket No :2*' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a27cc90c20048194a02b60ce10d2fc29.png" xmlns="">0V6-GITWiX0qV86nXnypuSA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,1 @@
+{"Target":{"Guid":"15adca2b-b4f7-46b3-bd6f-24e3694c2845","Ancestry":[{"IsSelected":true,"Selector":"<wnd app=\"ithalsql.exe\" cls=\"#32768\" idx=\"*\"/>","ValidAttributes":{"app":"ithalsql.exe","cls":"#32768","aastate":"odaklanabilir"}},{"IsSelected":true,"Selector":"<ctrl automationid=\"117\"/>","ValidAttributes":{"automationid":"117","role":"menu item"}}]}}

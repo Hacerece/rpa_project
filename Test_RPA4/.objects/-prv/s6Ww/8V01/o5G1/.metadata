@@ -1,0 +1,14 @@
+﻿{
+  "Name": "&Ekle",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "o5G16CSSIE6Y0pRoSjozWg",
+  "Reference": "eE2r3Dx0A0mRc8l5gXdRRg/o5G16CSSIE6Y0pRoSjozWg",
+  "ParentRef": "eE2r3Dx0A0mRc8l5gXdRRg/8V01Rddr7kOtf8wmAsBYkQ",
+  "Created": "2025-05-04T18:56:43.611309Z",
+  "Updated": "2025-05-04T18:56:43.611309Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

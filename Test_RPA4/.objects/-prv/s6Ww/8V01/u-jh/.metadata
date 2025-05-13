@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Label '6473 KRONES MAKİNA'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "u-jhPHCLwE611szv-syDAA",
+  "Reference": "eE2r3Dx0A0mRc8l5gXdRRg/u-jhPHCLwE611szv-syDAA",
+  "ParentRef": "eE2r3Dx0A0mRc8l5gXdRRg/8V01Rddr7kOtf8wmAsBYkQ",
+  "Created": "2025-05-07T05:40:08.8982847Z",
+  "Updated": "2025-05-07T05:40:08.8982847Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "menu item",
+  "Type": "Element",
+  "Id": "rTjkkX0000OBvXrPGsahHA",
+  "Reference": "eE2r3Dx0A0mRc8l5gXdRRg/rTjkkX0000OBvXrPGsahHA",
+  "ParentRef": "eE2r3Dx0A0mRc8l5gXdRRg/8V01Rddr7kOtf8wmAsBYkQ",
+  "Created": "2025-05-04T18:54:11.3782978Z",
+  "Updated": "2025-05-04T18:54:11.3782978Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
